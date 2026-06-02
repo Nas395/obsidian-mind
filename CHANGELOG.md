@@ -7,6 +7,12 @@
 
 
 
+
+## v6.2.1 — 2026-06-02
+
+### Fixed
+- tag the version-bump commit so released tags carry their own version
+
 ## v6.2 — 2026-06-02
 
 ### Changed
